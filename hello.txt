@@ -1,4 +1,4 @@
 "Hello Git!" - This is the 1st line. 
 2nd line added to feature-1.
 3rd line added from local repo.
-$th line added from remote.
+4th line added from remote.
